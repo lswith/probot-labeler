@@ -7,7 +7,7 @@ A [Probot](https://probot.github.io) bot to perform label additions/removals bas
 
 ## Setup
 
-Add a `.github/label.yml` file to your repository and then run the bot against it.
+Add a `.github/labels.yml` file to your repository and then run the bot against it.
 
 If the config is empty or doesn't exist, the bot will not run.
 
